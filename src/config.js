@@ -1,0 +1,3 @@
+require({
+    waitSeconds : 90
+});
